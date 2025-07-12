@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Raphael Di Pace</h1>
+<h1 align="center">👋 Hey, I'm Raphael Di Pace</h1>
 <h3 align="center">⚡ Electrical Engineering Student | Simulation, Power Systems, and AI Enthusiast</h3>
 
 <p align="center">
@@ -33,19 +33,16 @@
 
 ## 📂 Featured Projects
 
-🔹 [`ElectroSysAI`](https://github.com/seu-usuario/ElectroSysAI) — Advanced electrical circuit analyzer using AI and 3D visualizations  
-🔹 [`PowerSeriesRouting`](https://github.com/seu-usuario/PowerSeriesRouting) — Adaptive routing algorithm for elastic optical networks  
-🔹 [`LoadSimulationTools`](https://github.com/seu-usuario/LoadSimulationTools) — Erlang load vs blocking probability modeling toolkit  
+🔹 [`ElectroSysAI`](https://github.com/raphaeldipace/ElectroSysAI-lite) — Advanced electrical circuit analyzer using AI and 3D visualizations 
 
-> *(Add or adjust the URLs when your repos are public)*
 
 ---
 
 ## 📫 Contact & Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-lins-di-pace-812b3128b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelldpace@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaeldipace)
 
 ---
 
