@@ -76,6 +76,6 @@ I am an Electrical Engineering student with a passion for developing advanced si
 ---
 
 <p align="center" style="color:#777777; font-size:0.85rem; margin-top:25px;">
-  Made with ❤️ and ⚡ by <b>Raphael Di Pace</b>
+  <b>Raphael Di Pace</b>
 </p>
 
