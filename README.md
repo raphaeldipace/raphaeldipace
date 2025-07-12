@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/NrkdTg4qEhgAAAAC/welcome-welcome-images.gif" width="300" alt="Frozen effect" />
+  <img src="https://gist.githubusercontent.com/anabastos/3ae8d5a7c9a830eeffd3b47e00f95ea2/raw/63ee3ab93cec8d1f0f669c6ed9233173fab714b3/welcome.gif" width="400" alt="Frozen effect" />
 </p>
 
 <h1 align="center">Raphael Di Pace</h1>
