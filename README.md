@@ -17,6 +17,22 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 ---
 
+<h2 align="center" style="color:#65b2aa;">📊 GitHub Stats</h2>
+
+<table align="center" style="border:none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=radical&title_color=65b2aa&icon_color=65b2aa&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=radical&title_color=65b2aa&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
@@ -88,21 +104,6 @@ I'm an Electrical Engineering student currently studying intelligent systems and
     </tr>
   </table>
 </p>
-
----
-
-<h2 align="center" style="color:#65b2aa;">📊 GitHub Stats</h2>
-
-<table align="center" style="border:none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=radical&title_color=65b2aa&icon_color=65b2aa&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=radical&title_color=65b2aa&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
-    </td>
-  </tr>
-</table>
 
 ---
 
