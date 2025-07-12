@@ -113,8 +113,5 @@ I'm an Electrical Engineering student currently studying intelligent systems and
   <a href="https://www.linkedin.com/in/raphael-lins-di-pace-812b3128b/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/raphaeldipace" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
