@@ -13,84 +13,31 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 ---
 
-<h2 align="center">⚙️ <span style="color:#FF4444;">Tech Stack</span></h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 40px;
-  padding: 30px 20px;
-  background: #111;
-  border-radius: 16px;
-  box-shadow: 0 0 25px rgba(255, 68, 68, 0.15);
-  flex-wrap: nowrap;
-  overflow-x: auto;
-">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+</p>
 
-  <!-- Python -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">Python</div>
-  </div>
-
-  <!-- C -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">C</div>
-  </div>
-
-  <!-- C++ -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">C++</div>
-  </div>
-
-  <!-- MATLAB -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">MATLAB</div>
-  </div>
-
-  <!-- JavaScript -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">JS</div>
-  </div>
-
-  <!-- HTML5 -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">HTML5</div>
-  </div>
-
-  <!-- Verilog -->
-  <div style="text-align:center; width:80px;">
-    <div style="width:50px; height:50px; background:black; border-radius:6px; display:flex; align-items:center; justify-content:center; margin:auto;">
-      <span style="color:white; font-weight:bold; font-size:22px;">V</span>
-    </div>
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">Verilog</div>
-  </div>
-
-  <!-- Git -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">Git</div>
-  </div>
-
-  <!-- Linux -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">Linux</div>
-  </div>
-
-  <!-- VS Code -->
-  <div style="text-align:center; width:80px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:8px;">VS Code</div>
-  </div>
-
-</div>
+<p align="center">
+  <b>Python</b> &nbsp;&nbsp;&nbsp;
+  <b>C</b> &nbsp;&nbsp;&nbsp;
+  <b>C++</b> &nbsp;&nbsp;&nbsp;
+  <b>MATLAB</b> &nbsp;&nbsp;&nbsp;
+  <b>JS</b> &nbsp;&nbsp;&nbsp;
+  <b>HTML5</b> &nbsp;&nbsp;&nbsp;
+  <b>Git</b> &nbsp;&nbsp;&nbsp;
+  <b>Linux</b> &nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>
+</p>
 
 
 
