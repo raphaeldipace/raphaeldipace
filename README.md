@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FF4444;"> Raphael Di Pace</h1>
 <p align="center" style="color:#AAAAAA; font-size:1.1rem;">
-  Electrical Engineering Student | Simulation · Power Systems · AI
+  Electrical Engineering Student | UFCG
 </p>
 
 ---
@@ -71,10 +71,17 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=radical&title_color=FF4444&icon_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=radical&title_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" width="45%" />
-</p>
+
+<table align="center" style="border:none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=radical&title_color=FF4444&icon_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=radical&title_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" style="height: 240px; min-height: 240px;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaeldipace&theme=radical&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&sideLabels=AAAAAA&background=0D1117&border_radius=12" width="92%"/>
