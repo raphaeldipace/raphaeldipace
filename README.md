@@ -42,33 +42,6 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-  <a href="https://github.com/raphaeldipace/ElectroSysAI-lite" target="_blank" style="text-decoration: none;">
-    <div style="
-      background: linear-gradient(145deg, #1e1e1e, #111111);
-      border: 1px solid #2e2e2e;
-      border-radius: 12px;
-      padding: 20px;
-      max-width: 600px;
-      transition: all 0.3s ease;
-      box-shadow: 0 0 15px rgba(255, 68, 68, 0.3);
-    " onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 25px rgba(255, 68, 68, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(255, 68, 68, 0.3)'">
-      <h2 style="color:#FF4444; text-align:center; margin-bottom:10px;"> ElectroSysAI </h2>
-      <p style="color:#CCCCCC; font-size:0.95rem; text-align:center; line-height:1.6;">
-        A next-gen electrical system simulator with AI-based parameter tuning, advanced 3D visualizations, and full modularity for single-phase, three-phase, transformers, and transmission lines. Designed for engineers who code.
-      </p>
-      <p style="text-align:center; margin-top:15px;">
-        <img src="https://img.shields.io/github/stars/raphaeldipace/ElectroSysAI-lite?color=FF4444&logo=github&style=flat-square" />
-        <img src="https://img.shields.io/github/languages/top/raphaeldipace/ElectroSysAI-lite?color=FF4444&style=flat-square" />
-      </p>
-    </div>
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 
