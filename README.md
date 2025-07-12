@@ -15,72 +15,82 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 <h2 align="center">⚙️ <span style="color:#FF4444;">Tech Stack</span></h2>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:20px; background:linear-gradient(135deg, #1c1c1c, #111); border-radius:16px; box-shadow: 0 0 25px rgba(255, 68, 68, 0.15); max-width:1000px; margin:auto;">
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 30px;
+  max-width: 1100px;
+  margin: auto;
+  background: linear-gradient(145deg, #1a1a1a, #111111);
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(255, 68, 68, 0.15);
+">
 
   <!-- Python -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">Python</div>
   </div>
 
   <!-- C -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">C</div>
   </div>
 
   <!-- C++ -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">C++</div>
   </div>
 
   <!-- MATLAB -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">MATLAB</div>
   </div>
 
   <!-- JavaScript -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
-    <div style="color:#FF4444; font-weight:bold; margin-top:10px;">JavaScript</div>
+    <div style="color:#FF4444; font-weight:bold; margin-top:10px;">JS</div>
   </div>
 
   <!-- HTML5 -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">HTML5</div>
   </div>
 
   <!-- Verilog -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
-    <div style="width:50px; height:50px; background-color:#000; border-radius:6px; display:flex; align-items:center; justify-content:center; margin:auto;">
-      <span style="color:white; font-weight:bold; font-size:24px;">V</span>
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
+    <div style="width: 50px; height: 50px; background: black; border-radius: 6px; margin: auto; display: flex; align-items: center; justify-content: center;">
+      <span style="color: white; font-weight: bold; font-size: 20px;">V</span>
     </div>
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">Verilog</div>
   </div>
 
   <!-- Git -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">Git</div>
   </div>
 
   <!-- Linux -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">Linux</div>
   </div>
 
   <!-- VS Code -->
-  <div style="background-color:#111; border-radius:14px; padding:20px; width:120px; box-shadow:0 0 12px rgba(255,68,68,0.3); text-align:center;">
+  <div style="background-color: #111; border-radius: 14px; padding: 20px; width: 100px; text-align: center; box-shadow: 0 0 15px rgba(255,68,68,0.25);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
     <div style="color:#FF4444; font-weight:bold; margin-top:10px;">VS Code</div>
   </div>
 
 </div>
-
 
 ---
 
