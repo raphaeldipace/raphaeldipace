@@ -55,7 +55,7 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
       transition: all 0.3s ease;
       box-shadow: 0 0 15px rgba(255, 68, 68, 0.3);
     " onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 25px rgba(255, 68, 68, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(255, 68, 68, 0.3)'">
-      <h2 style="color:#FF4444; text-align:center; margin-bottom:10px;">⚡ ElectroSysAI</h2>
+      <h2 style="color:#FF4444; text-align:center; margin-bottom:10px;"> ElectroSysAI </h2>
       <p style="color:#CCCCCC; font-size:0.95rem; text-align:center; line-height:1.6;">
         A next-gen electrical system simulator with AI-based parameter tuning, advanced 3D visualizations, and full modularity for single-phase, three-phase, transformers, and transmission lines. Designed for engineers who code.
       </p>
@@ -71,10 +71,14 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&hide=issues&show_icons=true&theme=dark&icon_color=FF4444&title_color=FF4444&text_color=CCCCCC&hide_border=true&border_radius=10" width="400" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=dark&title_color=FF4444&text_color=CCCCCC&hide_border=true&border_radius=10" width="400" height="190"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=radical&title_color=FF4444&icon_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=radical&title_color=FF4444&text_color=FFFFFF&bg_color=0d1117&border_radius=12&border_color=2e2e2e" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaeldipace&theme=radical&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&sideLabels=AAAAAA&background=0D1117&border_radius=12" width="92%"/>
+</p>
 
 ---
 
