@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-1647.gif" width="400" alt="Frozen effect" />
+</p>
+
 <h1 align="center">Raphael Di Pace</h1>
 <p align="center" style="font-size:1.1rem;">
   Electrical Engineering Student | UFCG
