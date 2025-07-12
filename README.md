@@ -15,31 +15,52 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
 
 ## ⚙️ Tech Stack
 
-<table align="center" style="margin:auto;">
+<table align="center">
   <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">Python</b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br/>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">C</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">C++</b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" /><br/>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">MATLAB</b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">JavaScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">HTML5</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">Node.js</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">Verilog</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">Git</b>
     </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">Linux</b>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
