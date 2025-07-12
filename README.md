@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-1647.gif" width="400" alt="Frozen effect" />
+  <img src="https://media1.tenor.com/m/NrkdTg4qEhgAAAAC/welcome-welcome-images.gif" width="400" alt="Frozen effect" />
 </p>
 
 <h1 align="center">Raphael Di Pace</h1>
