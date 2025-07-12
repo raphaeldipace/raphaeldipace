@@ -8,7 +8,7 @@
 ## 🧾 About Me
 
 <p align="center" style="color:#CCCCCC; max-width:800px; font-size:1rem;">
-I’m an Electrical Engineering student passionate about simulation, intelligent systems, and performance-oriented coding. My research spans power systems, optical networks, and the application of AI to engineering challenges.
+I'm an Electrical Engineering student currently studying intelligent systems and performance-oriented coding. My research covers power systems, optical networks, and the application of AI to engineering challenges.
 </p>
 
 ---
