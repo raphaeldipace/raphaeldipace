@@ -15,48 +15,55 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
 
 ## ⚙️ Tech Stack
 
-<table align="center">
+<table align="center" style="margin:auto; border-spacing:20px;">
   <tr>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">Python</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>Python</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">C</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>C</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">C++</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>C++</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">MATLAB</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>MATLAB</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">JavaScript</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>JavaScript</b></span>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">HTML5</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>HTML5</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">Git</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <div style="width:50px; height:50px; background-color:black; border-radius:6px; display:flex; align-items:center; justify-content:center; margin:auto;">
+        <span style="color:white; font-weight:bold;">V</span>
+      </div>
+      <span style="color:#FF4444;"><b>Verilog</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">Linux</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>Git</b></span>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">VS Code</b>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>Linux</b></span>
+    </td>
+    <td align="center" style="background-color:#111111; border-radius:12px; padding:15px; box-shadow:0 0 10px rgba(255, 68, 68, 0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
+      <span style="color:#FF4444;"><b>VS Code</b></span>
     </td>
   </tr>
 </table>
+
 
 ---
 
