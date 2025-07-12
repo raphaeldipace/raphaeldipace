@@ -15,75 +15,81 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<p align="center">
-  <table align="center" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #42a5f5)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #2196f3)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>C</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #007acc)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>C++</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #ed1c24)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>MATLAB</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #f7df1e)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #e34f26)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #f05032)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #000)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>Linux</b></sub>
-      </td>
-      <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #007acc)';" 
-             onmouseout="this.style.filter='none';" /><br/>
-        <sub><b>VS Code</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #42a5f5)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>Python</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #2196f3)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>C</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #007acc)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>C++</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #ed1c24)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>MATLAB</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #f7df1e)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>JavaScript</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #e34f26)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>HTML5</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #f05032)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>Git</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #000)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>Linux</b></sub>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"
+         style="transition: filter 0.3s;"
+         onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #007acc)';"
+         onmouseout="this.style.filter='none';" />
+    <br/><sub><b>VS Code</b></sub>
+  </div>
+
+</div>
 
 ---
 
