@@ -1,3 +1,34 @@
+<style>
+  /* Cor base neutra */
+  body, h1, h2, p, sub, b {
+    color: #444444;
+    animation: fadeToColor 2s forwards;
+  }
+
+  /* Animação para fade da cor para #65b2aa */
+  @keyframes fadeToColor {
+    from {
+      color: #444444;
+    }
+    to {
+      color: #65b2aa;
+    }
+  }
+
+  /* Mantém hover dos ícones igual, com a cor azul (#00c3ff) para destaque */
+  img {
+    transition: filter 0.3s;
+  }
+  img:hover {
+    filter: brightness(1.3) drop-shadow(0 0 5px #00c3ff);
+  }
+
+  /* GitHub stats título */
+  h2.stats-title {
+    color: #65b2aa !important;
+  }
+</style>
+
 <h1 align="center">Raphael Di Pace</h1>
 <p align="center" style="font-size:1.1rem;">
   Electrical Engineering Student | UFCG
@@ -19,66 +50,39 @@ I'm an Electrical Engineering student currently studying intelligent systems and
   <table align="center" style="border-collapse: collapse;">
     <tr>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
         <sub><b>Python</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /><br/>
         <sub><b>C</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br/>
         <sub><b>C++</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" /><br/>
         <sub><b>MATLAB</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br/>
         <sub><b>JavaScript</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br/>
         <sub><b>HTML5</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
         <sub><b>Git</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
         <sub><b>Linux</b></sub>
       </td>
       <td align="center" width="90" style="padding: 10px; border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" 
-             style="transition: filter 0.3s;" 
-             onmouseover="this.style.filter='brightness(1.3) drop-shadow(0 0 5px #00c3ff)';" 
-             onmouseout="this.style.filter='none';" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
         <sub><b>VS Code</b></sub>
       </td>
     </tr>
@@ -87,7 +91,7 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 ---
 
-<h2 align="center" style="color:#65b2aa;">📊 GitHub Stats</h2>
+<h2 align="center" class="stats-title">📊 GitHub Stats</h2>
 
 <table align="center" style="border:none;">
   <tr>
