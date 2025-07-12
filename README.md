@@ -1,84 +1,84 @@
-<h1 align="center" style="color:#FF0000;">🔴 Raphael Di Pace</h1>
-<h3 align="center" style="color:#AAAAAA;">⚡ Electrical Engineering Student | Simulation, Power Systems & AI Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%7C+Simulation+%7C+Power+Systems;Python+%7C+MATLAB+%7C+C%2B%2B+%7C+VHDL;Data+Analysis+%7C+AI+in+Engineering+%7C+Optical+Networks" alt="Typing SVG" />
+  <img width="150" src="https://raw.githubusercontent.com/raphaeldipace/raphaeldipace/main/assets/avatar.png" alt="Raphael Di Pace Logo" />
+</p>
+
+<h1 align="center" style="color:#FF4444;">Raphael Di Pace</h1>
+<p align="center" style="color:#AAAAAA; font-size:1.1rem;">
+  Electrical Engineering Student | Simulation, Power Systems & AI Enthusiast
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Welcome%20to%20my%20Profile!&fontAlign=40&fontColor=FF0000&desc=Engineer%20with%20Code%20and%20Vision&descAlign=50&descSize=13&color=0:000000,100:111111" />
+## 👋 About Me
 
-## About Me
-
-🎓 Electrical Engineering student focused on:
-
-- 🌐 **Optical Networks**: routing algorithms, adaptive scenarios
-- ⚙️ **Power Systems**: modeling, control, and simulation
-- 🤖 **AI + Engineering**: robust simulations, predictive models
-
-💡 I build **intelligent tools**, simulate real-world systems, and explore tech across disciplines.
+<p style="color:#CCCCCC; font-size:1rem; max-width:700px; margin:auto;">
+I am an Electrical Engineering student with a passion for developing advanced simulations and intelligent tools, specializing in power systems, optical networks, and AI integration. I enjoy transforming complex engineering problems into efficient, scalable code.
+</p>
 
 ---
 
-## 💻 Tech Toolbox
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFDD54)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=orange)
-![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=verilog&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=008080)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=yellow)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
+<table align="center" style="margin:auto;">
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
+      <b style="color:#FF5555;">Python</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /><br/>
+      <b style="color:#FF5555;">C++</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" /><br/>
+      <b style="color:#FF5555;">MATLAB</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
+      <b style="color:#FF5555;">Git</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
+      <b style="color:#FF5555;">Linux</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 Highlighted Projects
+## 🚀 Featured Projects
 
-- [`⚡ ElectroSysAI`](https://github.com/raphaeldipace/ElectroSysAI-lite)  
-  Intelligent Electrical System Analyzer with 3D and Phasor Visualization
+| Project          | Description                                                            | Link                                                |
+|------------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| **ElectroSysAI** | Intelligent electrical system analyzer with AI and 3D visualizations. | [GitHub Repo](https://github.com/raphaeldipace/ElectroSysAI-lite) |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=dark&icon_color=FF0000&title_color=FF0000&text_color=AAAAAA" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=dark&title_color=FF0000&text_color=AAAAAA" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaeldipace&show_icons=true&theme=dark&icon_color=FF4444&title_color=FF4444&text_color=CCCCCC" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldipace&layout=compact&theme=dark&title_color=FF4444&text_color=CCCCCC" width="48%" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raphael-lins-di-pace-812b3128b/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:raphaelldpace@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://github.com/raphaeldipace"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:raphaelldpace@gmail.com" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/raphael-lins-di-pace-812b3128b/" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/raphaeldipace" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-<!-- dark aesthetic footer -->
-<p align="center" style="color:gray;">Made with ⚡ & Code — Raphael Di Pace</p>
-
-
-<!--
-**raphaeldipace/raphaeldipace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color:#555555; font-size:0.85rem;">
+  Made by Raphael Di Pace
+</p>
