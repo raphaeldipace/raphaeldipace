@@ -12,79 +12,73 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 </p>
 
 ---
-
 <h2 align="center">⚙️ <span style="color:#FF4444;">Tech Stack</span></h2>
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  gap: 25px;
-  padding: 20px 10px;
-  margin: auto;
-  background: linear-gradient(135deg, #1a1a1a, #111111);
-  border-radius: 16px;
-  box-shadow: 0 0 30px rgba(255, 68, 68, 0.15);
-  max-width: 95%;
-">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; padding: 20px; background: #111; border-radius: 16px; box-shadow: 0 0 25px rgba(255,68,68,0.2); flex-wrap: nowrap; overflow-x: auto;">
 
-  <!-- Icon Block -->
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">Python</div>
+  <!-- Python -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">Python</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">C</div>
+  <!-- C -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">C</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">C++</div>
+  <!-- C++ -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">C++</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">MATLAB</div>
+  <!-- MATLAB -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">MATLAB</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">JS</div>
+  <!-- JavaScript -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">JS</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">HTML5</div>
+  <!-- HTML5 -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">HTML5</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <div style="width:40px; height:40px; background:#000; border-radius:6px; margin:auto; display:flex; align-items:center; justify-content:center;">
-      <span style="color:#fff; font-weight:bold;">V</span>
+  <!-- Verilog -->
+  <div style="text-align: center;">
+    <div style="width: 50px; height: 50px; background: black; border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+      <span style="color: white; font-weight: bold; font-size: 22px;">V</span>
     </div>
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">Verilog</div>
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">Verilog</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">Git</div>
+  <!-- Git -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">Git</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">Linux</div>
+  <!-- Linux -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">Linux</div>
   </div>
 
-  <div style="background:#111; border-radius:12px; padding:15px; min-width:90px; text-align:center; box-shadow:0 0 10px rgba(255,68,68,0.25);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40">
-    <div style="color:#FF4444; font-weight:bold; margin-top:6px;">VS Code</div>
+  <!-- VS Code -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
+    <div style="color: #FF4444; font-weight: bold; margin-top: 8px;">VS Code</div>
   </div>
 
 </div>
-
 
 ---
 
