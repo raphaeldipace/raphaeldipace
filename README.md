@@ -43,13 +43,9 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">HTML5</b>
     </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">Node.js</b>
-    </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" width="45" /><br/>
-      <b style="color:#FF5555;">Verilog</b>
+    <td align="center" style="padding:10px; background-color:#111111; border-radius:8px;">
+      <br/>
+      <b style="color:#FFFFFF;">Verilog</b>
     </td>
     <td align="center" style="padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /><br/>
@@ -59,8 +55,13 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">Linux</b>
     </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /><br/>
+      <b style="color:#FF5555;">VS Code</b>
+    </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
