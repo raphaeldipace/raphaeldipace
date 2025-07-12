@@ -43,10 +43,6 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">HTML5</b>
     </td>
-    <td align="center" style="padding:10px; background-color:#111111; border-radius:8px;">
-      <br/>
-      <b style="color:#FFFFFF;">Verilog</b>
-    </td>
     <td align="center" style="padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /><br/>
       <b style="color:#FF5555;">Git</b>
