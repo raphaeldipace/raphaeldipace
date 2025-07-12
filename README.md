@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/raphaeldipace/raphaeldipace/main/assets/avatar.png" alt="Raphael Di Pace Logo" />
-</p>
-
 <h1 align="center" style="color:#FF4444;">Raphael Di Pace</h1>
 <p align="center" style="color:#AAAAAA; font-size:1.1rem;">
   Electrical Engineering Student | Simulation, Power Systems & AI Enthusiast
