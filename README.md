@@ -5,7 +5,7 @@
 
 ---
 
-## 🧾 About Me
+<h2 align="center">🧾 About Me</h2>
 
 <p align="center" style="color:#CCCCCC; max-width:800px; font-size:1rem;">
 I'm an Electrical Engineering student currently studying intelligent systems and performance-oriented coding. My research covers power systems, optical networks, and the application of AI to engineering challenges.
@@ -88,7 +88,7 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 
 <table align="center" style="border:none;">
@@ -104,7 +104,7 @@ I'm an Electrical Engineering student currently studying intelligent systems and
 
 ---
 
-## 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
   <a href="mailto:raphaelldpace@gmail.com" style="margin: 0 10px;">
