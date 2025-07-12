@@ -56,10 +56,6 @@ I’m an Electrical Engineering student passionate about simulation, intelligent
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaeldipace&theme=radical&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&sideLabels=AAAAAA&background=0D1117&border_radius=12" width="92%"/>
-</p>
-
 ---
 
 ## 📫 Contact
