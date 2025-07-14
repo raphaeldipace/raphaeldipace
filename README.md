@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/5ufw.mp4" width="400" alt="Frozen effect" />
+  <img src="https://www.thisiscolossal.com/wp-content/uploads/2024/01/spherewave.gif" width="400" alt="Frozen effect" />
 </p>
 
 <h1 align="center">Raphael Di Pace</h1>
