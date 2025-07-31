@@ -12,7 +12,7 @@
 <h2 align="center">🧾 About Me</h2>
 
 <p align="center" style="max-width:800px; font-size:1rem;">
-I'm an Electrical Engineering student currently studying intelligent systems and performance-oriented coding. My research covers power systems, optical networks, and the application of AI to engineering challenges.
+I'm an electrical engineering student currently studying intelligent systems and performance-oriented coding. My research covers power systems, optical networks and embedded systems.
 </p>
 
 ---
