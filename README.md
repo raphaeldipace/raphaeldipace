@@ -120,4 +120,6 @@ I'm an electrical engineering student currently studying intelligent systems and
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="90" alt="Frozen effect" />
+  <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="90" alt="Frozen effect" />
+  <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="90" alt="Frozen effect" />
 </p>
