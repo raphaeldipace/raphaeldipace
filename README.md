@@ -117,3 +117,7 @@ I'm an electrical engineering student currently studying intelligent systems and
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="150" alt="Frozen effect" />
+</p>
