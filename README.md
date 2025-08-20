@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/EMK6D0TD3U0AAAAC/tenor.gif" width="500" />
+  <img src="https://c.tenor.com/EMK6D0TD3U0AAAAC/tenor.gif" width="900" />
 </p>
 
 <h1 align="center">Raphael Di Pace</h1>
