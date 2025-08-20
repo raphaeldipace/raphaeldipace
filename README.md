@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/welcomebanner-welcome-silver-gif-1207732224829676877" width="150" alt="Frozen effect" />
+</p>
+
 <h1 align="center">Raphael Di Pace</h1>
 <p align="center" style="font-size:1.1rem;">
   Electrical Engineering Student | UFCG
